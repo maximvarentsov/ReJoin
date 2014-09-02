@@ -1,0 +1,6 @@
+name: ${artifactId}
+main: ${groupId}.${artifactId}
+version: ${version}
+description: Join on fallback server on server restart.
+author: Maxim Varentsov <admin@gtncraft.ru>
+
